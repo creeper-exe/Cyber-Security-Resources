@@ -1,5 +1,7 @@
 # Cyber-Security-Resources and courses
 
+[IBM Cybersecurity Analyst Professional](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst?=)
+
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
 [Zsecurity all courses](https://mega.nz/folder/eewAHKpS#eAEaAFcdKXM7How1ZaXQRw)
